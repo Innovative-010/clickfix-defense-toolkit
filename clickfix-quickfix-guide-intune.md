@@ -16,7 +16,7 @@ The goal is to quickly limit commonly abused execution paths for standard users 
 
 | Quickfix ID | Control | Purpose | Impact Level | Impact |
 |---|---|---|---|---|
-| [QF-1](https://github.com/Innovative-010/clickfix-defense-toolkit-private/blob/main/clickfix-quickfix-guide-intune.md#qf-1-%EF%B8%8F-block-common-windows-shortcuts) | ⌨️ Block common Windows shortcuts | Block `Win + R`, `Win + E`, and `Win + X` = `(REX)` | Medium | May impact users who rely on Windows shortcuts for daily workflows |
+| [QF-1](https://github.com/Innovative-010/clickfix-defense-toolkit-private/blob/main/clickfix-quickfix-guide-intune.md#qf-1-%EF%B8%8F-block-common-windows-shortcuts) | ⌨️ Block common Windows shortcuts | Block `Win + R`, `Win + E`, and `Win + X` = `(REX)` | Low | May impact users who rely on Windows shortcuts for daily workflows |
 | [QF-2](https://github.com/Innovative-010/clickfix-defense-toolkit-private/blob/main/clickfix-quickfix-guide-intune.md#qf-2--remove-run-menu-from-start-menu) | 🚫 Remove Run menu | Reduce access to the Run dialog | Medium | Users can no longer use Run for quick commands or UNC paths |
 | [QF-3](https://github.com/Innovative-010/clickfix-defense-toolkit-private/blob/main/clickfix-quickfix-guide-intune.md#qf-3-%EF%B8%8F-block-command-prompt) | 🖥️ Block Command Prompt | Prevent command execution and script processing | High | May impact troubleshooting, legacy scripts, and admin tasks |
 | [QF-4](https://github.com/Innovative-010/clickfix-defense-toolkit-private/blob/main/clickfix-quickfix-guide-intune.md#qf-4--block-minimum-high-risk-binaries) | 🧱 Block high-risk binaries | Restrict commonly abused Windows binaries and LOLBins | High | Can impact legitimate tools, installers, scripts, and support workflows |
