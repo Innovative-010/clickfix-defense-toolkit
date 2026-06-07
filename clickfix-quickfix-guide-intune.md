@@ -400,7 +400,7 @@ Limitations:
 
 - Blocks common shortcuts and known executable names only. New attack paths may appear over time, so implementing the long-term fix is still strongly recommended.
 - Does not provide strong application allowlisting. For stronger control, use the long-term fix.
-- May be bypassed by renamed binaries or alternative execution methods. To help detect copied or impersonated system tools, enable the ASR rule: **Block use of copied or impersonated system tools**.
+- May be bypassed by renamed binaries or alternative execution methods. To help detect copied or impersonated system tools, enable the ASR rule in Block mode: **Block use of copied or impersonated system tools**.
 - Can impact legitimate business workflows. Test carefully before broad deployment.
 
 ---
