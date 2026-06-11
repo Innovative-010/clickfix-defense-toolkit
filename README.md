@@ -14,7 +14,7 @@ Quick guides and validation scripts to block and verify commonly abused ClickFix
 | Resource | Purpose |
 |---|---|
 | [ClickFix Quickfix Guide - Intune](./clickfix-quickfix-guide-intune.md) | Intune-based quickfix guidance |
-| [ClickFix Protection Score](./ClickFix-Protection-Score.ps1) | Checks whether each quickfix step is correctly applied |
+| [ClickFix Protection Score Powershell Script](./ClickFix-Protection-Score.ps1) | Checks whether each quickfix step is correctly applied |
 
 > ⚠️ Quickfixes reduce immediate exposure, but should be tested, monitored, and treated as temporary mitigations. The detection script helps verify whether each quickfix control is actually in place.
 
