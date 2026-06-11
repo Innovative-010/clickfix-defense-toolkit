@@ -1,7 +1,7 @@
 # ⚡ ClickFix Quickfix Guide - Intune
 
 This guide provides an **Intune-based quickfix approach** to reduce the risk of ClickFix-style attacks.
-
+I123
 The goal is to quickly limit commonly abused execution paths for standard users by using Microsoft Intune policies and Intune-deployed PowerShell scripts.
 
 > ⚠️ **Note:** This is a quickfix. It can reduce immediate exposure, but it does not replace structural **Application Control** such as **WDAC**, **AppLocker**, or **ThreatLocker**.
