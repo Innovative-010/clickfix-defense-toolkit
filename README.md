@@ -9,13 +9,14 @@ ClickFix is a dangerous social engineering attack that manipulates your clipboar
 
 ## ⚡ Fast Approach
 
-Quick guides to block commonly abused ClickFix execution paths.
+Quick guides and validation scripts to block and verify commonly abused ClickFix execution paths.
 
-| Guide | Purpose |
+| Resource | Purpose |
 |---|---|
-| [ClickFix Quickfix Guide - Intune](./clickfix-quickfix-guide-intune.md) | Intune-based quickfix |
+| [ClickFix Quickfix Guide - Intune](./clickfix-quickfix-guide-intune.md) | Intune-based quickfix guidance |
+| [ClickFix Protection Score](./ClickFix-Protection-Score.ps1) | Checks whether each quickfix step is correctly applied |
 
-> ⚠️ Quickfixes reduce risk, but should be tested and treated as temporary mitigations.
+> ⚠️ Quickfixes reduce immediate exposure, but should be tested, monitored, and treated as temporary mitigations. The detection script helps verify whether each quickfix control is actually in place.
 
 ---
 
