@@ -90,6 +90,7 @@ Relevant articles, blogs, and research about ClickFix campaigns and social engin
 
 | Name | Website | Notes |
 |---|---|---|
+| The Hacker News - ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures | https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html | ClickFix campaigns are evolving into advanced malware delivery operations. |
 | Microsoft Security Blog - Think Before You ClickFix | https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/ | Microsoft analysis of the ClickFix social engineering technique. |
 
 ## 🎯 Goal
