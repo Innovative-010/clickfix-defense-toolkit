@@ -81,6 +81,7 @@ Safe test scenarios and simulation resources to validate ClickFix defenses.
 |---|---|---|
 | ClickFix Simulation Website | https://www.click-fix.nl | Simulation website to demonstrate and validate ClickFix awareness and defenses. |
 | ClickFix Builder | https://github.com/drcrypterdotru/clickfix-builder | ClickFix builder resource. Use only in controlled and authorized test environments. |
+| ClickFix Collection | https://clickfix.carsonww.com | Collected ClickFix domains, complete with before & after screenshots and the malicious clipboard commands attackers attempt to trick users into running. |
 
 ---
 
